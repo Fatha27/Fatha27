@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### Languages and Tools:
+### Languages and Frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="66" height="66"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="66" height="66" />&nbsp;
