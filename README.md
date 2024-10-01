@@ -1,5 +1,16 @@
-## Hi there 👋
-I'm an IT graduate with a passion for Machine Learning and Data Analytics.
+## Hi there 👋, I'm Syed Fathaullah
+
+💻 I'm an IT graduate, passionate about Machine learning & all things surrounding data.
+
+📚 Love diving into thought-provoking articles and papers in the ML domain to stay inspired and broaden my perspective.
+
+🌱 currently seeking a data-driven role where I can create meaningful impact and grow professionally.
+
+📩 Reach me at: syedfathaullah27@gmail.com
+
+
+Feel free to check out my projects below! 😊
+
 <!--
 **Fatha27/Fatha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +46,8 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fatha27&theme=dark&background=000000&stroke=006400)](https://git.io/streak-stats)
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatha27&layout=compact&theme=vision-friendly-dark)](https://github.com/Fatha27/github-readme-stats)
 
 
